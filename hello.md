@@ -40,3 +40,7 @@
 
 - version2
 - version3
+## commt --amend 및 stash 내용 추가
+
+- 안녕하세요
+
